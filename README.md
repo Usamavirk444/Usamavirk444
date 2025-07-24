@@ -52,8 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamavirk444&layout=compact&theme=radical" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamavirk444&theme=radical" width="99%" />
-</p>
 
 ---
